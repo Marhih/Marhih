@@ -1,16 +1,36 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**Marhih/Marhih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+## I'm Marielen!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+:computer: I'm Python Developer Jr.!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: create a new project and find a new job.
+
+ 
+
+## About me
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+
+
+Marielen Rezende
+
+LINK_LINKEDIN = https://www.linkedin.com/in/marielen-rezende-733271163/
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
+
+----------------------------------------------------------------------------------
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
+
+[![Marhih GitHub stats](https://github-readme-stats.vercel.app/api?username=Marhih)](https://github.com/Marhih/github-readme-stats)
