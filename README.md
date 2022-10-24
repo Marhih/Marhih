@@ -43,11 +43,11 @@
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
+<p align="center" >
 [![Marhih GitHub stats](https://github-readme-stats.vercel.app/api?username=Marhih)](https://github.com/Marhih/github-readme-stats)
 
-
 [![Marhih Github](https://github-readme-stats.vercel.app/api/top-langs/?username=Marhih)](https://github.com/Marhih/github-readme-stats)
-
+</p>
 
 ## Conquistas
 
