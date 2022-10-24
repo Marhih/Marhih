@@ -52,5 +52,8 @@
 
 ## Conquistas
 
-PROJETO: DECODIFICADOR DE TEXTO COM JAVASCRIPT
-[badge](https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1659462279Badge_Sharer_Alura_ChallengeOracleONE_2000x2000_V3.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station)
+<p align="center" >
+     <img width="200" heigth="200" src="https://github.com/Marhih/imagens/blob/master/badges/badge1.png">
+     <img width="200" heigth="200" src="https://github.com/Marhih/imagens/blob/master/badges/badge2.png">
+     <img width="200" heigth="200" src="https://github.com/Marhih/imagens/blob/master/badges/badge3.png">
+</p>
