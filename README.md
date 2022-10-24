@@ -20,9 +20,8 @@
 
 ## About me
 
-![linkedien](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-[Marielen Rezende](https://www.linkedin.com/in/marielen-rezende-733271163/)
+<a href="https://www.linkedin.com/in/marielen-rezende-733271163/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 - Thanks for visiting.
 
