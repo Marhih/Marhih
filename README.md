@@ -8,7 +8,7 @@
 
  
 
-:computer: I'm Developer Full-Stack!
+:computer: I'm Developer em inicio de carreira!
 
 :house_with_garden: I’m from Brazil.
 
