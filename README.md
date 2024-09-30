@@ -12,9 +12,9 @@
 
 :house_with_garden: Eu sou brasileira.
 
-:books: I’m currently learning everything.
+:books: Atualmente estou aprendendo Desenvolvimento Web.
 
-:outbox_tray: create a new project and find a new job.
+:outbox_tray: Criando novos projetos e procurando um emprego.
 
  
 
