@@ -4,13 +4,13 @@
 
  
 
-## I'm Marielen!
+## Eu sou a Marielen!
 
  
 
-:computer: I'm Developer em inicio de carreira!
+:computer: Eu sou uma Desenvolvedora em inicio de carreira!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Eu sou brasileira.
 
 :books: I’m currently learning everything.
 
